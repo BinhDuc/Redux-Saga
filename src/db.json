@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Đặng Huy Hoàng",
+      "score": 9,
+      "age": 18
+    },
+    {
+      "id": 2,
+      "name": "22",
+      "age": "3",
+      "score": "4"
+    },
+    {
+      "id": 3,
+      "name": "2",
+      "age": "2",
+      "score": "2s"
+    },
+    {
+      "id": 4,
+      "name": "sad",
+      "age": "ads",
+      "score": "das"
+    },
+    {
+      "id": 5,
+      "name": "ads",
+      "age": "2asd",
+      "score": "das"
+    },
+    {
+      "name": "Đặng Nam Phương",
+      "age": 30,
+      "score": 8,
+      "id": 6
+    }
+  ]
+}

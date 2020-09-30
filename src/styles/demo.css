@@ -1,0 +1,56 @@
+/*
+File chinh giao dien cua page Demo
+*/
+.my-nav{
+    z-index:3;
+    width:250px;
+    align-items: center;
+}
+.avata{
+    width: 150px;
+    height: 150px;
+    margin:0 auto;
+    margin-bottom: 30px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    border: 2px solid #dddddd;
+
+}
+.social-links{
+    margin-left: 10px;
+}
+.btn-links{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.wrap-demo-component {
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.wrap-demo-component table {
+border-collapse: collapse;
+}
+.wrap-demo-component table tr:nth-child(even) {
+background-color: #dddddd;
+}
+.wrap-demo-component table tr td:first-child {
+min-width: 80px;
+text-align: center;
+}
+.wrap-demo-component table th, td {
+border: 1px solid #888;
+padding: 5px;
+}
+.wrap-demo-component table td {
+min-width: 200px;
+}
+.wrap-demo-component table td.action-cell button:nth-child(odd){
+margin-right: 5px;
+}
+.wrap-demo-component .wrap-action-form {
+display: flex;
+flex-wrap: wrap;
+}
